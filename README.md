@@ -1,4 +1,4 @@
-# Synergy Design System
+,# Synergy Design System
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./packages/docs/public/synergy_logo_dark.png" width="400">
